@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # 🔑 Set your Groq API key here (temporary for testing)
-GROQ_API_KEY="xai-xCsrWVncJXLtPbTDTuqe1Q6U63t6reRACb9Wu2wXr5ViyuJIvEWpx4MMFsGfgeEGaPqjTQWCuLtmq56l"  # Replace this with your actual key from https://console.groq.com
+GROQ_API_KEY=""  # Replace this with your actual key from https://console.groq.com
 
 class Website:
     def __init__(self):
